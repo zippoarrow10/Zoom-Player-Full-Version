@@ -254,3 +254,6 @@ This repository serves as the official landing page for Zoom Player. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Zoom Player today!**
+
+---
+**Last updated:** 2026-09-12 02:16:25 UTC
