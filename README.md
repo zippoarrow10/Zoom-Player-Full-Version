@@ -256,4 +256,4 @@ This repository serves as the official landing page for Zoom Player. The softwar
 **Get the most recent version of Zoom Player today!**
 
 ---
-**Last updated:** 2026-10-27 07:04:44 UTC
+**Last updated:** 2026-10-27 13:47:22 UTC
